@@ -10,6 +10,9 @@
 - Ayush Soni [AyushhS](https://github.com/AyushhS)
 - Athul Jyothis [jyothisable](https://github.com/jyothisable)
 - P.Kartikeya [kartikeya-123](https://github.com/kartikeya-123)
+- Nagsen Waghmare [Nagsenwaghmare](https://github.com/Nagsenwaghmare)
 - Rohan Reddy [imTheDevil](https://github.com/imTheDevil)
 - Shashwat Singh [Shashwat545](https://github.com/shashwat545)
 - Kaushik Dey [Kaushikdey647](https://github.com/Kaushikdey647)
+- 
+<paryul singhai> [paryul09](https://github.com/paryul09)
