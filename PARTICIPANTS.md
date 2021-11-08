@@ -28,3 +28,5 @@
 - Divyansh Gupta [divyansh1235](https://github.com/divyansh1235)
 - Aaryan Siwach [Ryan-Cwach](https://github.com/Ryan-Cwach)
 - Abhay Pratap Singh Patel [AbhayPatel1](https://github.com/AbhayPatel1)
+- Vidit Srivastava [vidit21srivastava](https://github.com/vidit21srivastava)
+- 
