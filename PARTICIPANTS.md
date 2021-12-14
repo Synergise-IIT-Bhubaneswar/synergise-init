@@ -29,4 +29,5 @@
 - Aaryan Siwach [Ryan-Cwach](https://github.com/Ryan-Cwach)
 - Abhay Pratap Singh Patel [AbhayPatel1](https://github.com/AbhayPatel1)
 - Vidit Srivastava [vidit21srivastava](https://github.com/vidit21srivastava)
+- Sai Krishna Jupally [MintuJupally](https://github.com/MintuJupally)
 - 
